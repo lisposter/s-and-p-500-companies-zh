@@ -11,7 +11,6 @@ AFL,Aflac（英语：Aflac）,金融,人寿与健康保险,1999-05-28,1955
 A,安捷伦科技,卫生保健,保健设备,2000-06-05,1999
 APD,空气化工,材料,工业用气体,1985-04-30,1940
 AKAM,阿卡迈科技,信息技术,互联网服务与基础设施,2007-07-12,1998
-ALK,Alaska Air Group（英语：Alaska Air Group）,工业,航空公司,2016-05-13,1985
 ALB,Albemarle Corporation（英语：Albemarle Corporation）,材料,特种化学品,2016-07-01,1994
 ARE,Alexandria Real Estate Equities（英语：Alexandria Real Estate Equities）,房地产,办公室房地产投资信托,2017-03-20,1994
 ALGN,艾利科技,卫生保健,卫生保健用品,2017-06-19,1997
@@ -68,6 +67,7 @@ BBY,百思买,非必需消费品,电脑和电子产品零售,1999-06-29,1966
 BG,邦吉公司,必需品,农产品,2023-03-15,1818
 BIO,Bio-Rad Laboratories（英语：Bio-Rad Laboratories）,卫生保健,生命科学工具与服务,2020-06-22,1952
 BIIB,Biogen,卫生保健,生物技术,2003-11-13,1978
+BLDR,Builders FirstSource（英语：Builders FirstSource）,工业,建筑产品,2023-12-18,1998
 BLK,贝莱德,金融,资产管理与托管银行,2011-04-04,1988
 BK,纽约梅隆银行,金融,资产管理与托管银行,1995-03-31,1784
 BA,波音,工业,航空航天与国防,1957-03-04,1916
@@ -142,10 +142,10 @@ DRI,达登餐饮公司,非必需消费品,餐厅,,1938
 DVA,DaVita Inc.（英语：DaVita Inc.）,卫生保健,卫生保健设施,2008-07-31,1979
 DE,强鹿,工业,农用机械,1957-03-04,1837
 DAL,达美航空,工业,航空公司,2013-09-11,1929
-XRAY,Dentsply Sirona（英语：Dentsply Sirona）,卫生保健,卫生保健用品,2008-11-14,2016 (1969)
 DVN,Devon Energy（英语：Devon Energy）,能源,油气勘探与生产,2000-08-30,1971
 DXCM,Dexcom（英语：Dexcom）,卫生保健,保健设备,2020-05-12,1999
 FANG,响尾蛇能源公司,能源,油气勘探与生产,2018-12-03,2007
+DECK,Deckers Brands（英语：Deckers Brands）,非必需消费品,鞋类,2024-03-18,1973
 DLR,Digital Realty（英语：Digital Realty）,房地产,专业房地产投资信托,2016-05-18,2004
 DFS,Discover Financial（英语：Discover Financial）,金融,消费者金融,2007-07-02,1985
 DISCA,探索传播 (Series A),通讯服务,广播,2010-03-01,1985
@@ -159,7 +159,6 @@ DOW,Dow Inc.（英语：Dow Inc.）,材料,商品化学品,2019-04-01,2019
 DTE,DTE Energy（英语：DTE Energy）,公共事业,复合公共事业,1957-03-04,1995
 DUK,Duke Energy（英语：Duke Energy）,公共事业,电气事业,1976-06-30,1904
 DD,杜邦股份,材料,特种化学品,2019-04-02,2017
-DXC,DXC Technology（英语：DXC Technology）,信息技术,信息技术咨询和其他服务,2017-04-04,2017
 EMN,Eastman Chemical Company（英语：Eastman Chemical Company）,材料,多种化学品,1994-01-01,1920
 ETN,伊顿 (美国公司),工业,电气元件和设备,,1911
 EBAY,eBay,非必需消费品,互联网与直销零售,2002-07-22,1995
@@ -211,7 +210,8 @@ GRMN,Garmin,非必需消费品,消费电子,2012-12-12,1989
 IT,高德纳咨询公司,信息技术,信息技术咨询和其他服务,2017-04-05,1979
 GNRC,Generac Holdings（英语：Generac Holdings）,工业,电气元件和设备,2021-03-22,1959
 GD,通用动力,工业,航空航天与国防,1957-03-04,1899
-GE,通用电气,工业,工业集团,,1892
+GE,通用电气,工业,工业集团,1957-03-04,1892
+GEV,GE Vernova（英语：GE Vernova）,工业,重型电气设备,2024-04-02,2024
 GIS,通用磨坊,必需品,包装食品和肉类,1969-03-31,1856
 GM,通用汽车,非必需消费品,汽车制造商,2013-06-06,1908
 GPC,Genuine Parts Company（英语：Genuine Parts Company）,非必需消费品,专卖店,1973-12-31,1925
@@ -264,6 +264,7 @@ IRM,Iron Mountain (company)（英语：Iron Mountain (company)）,房地产,专�
 JKHY,Jack Henry & Associates（英语：Jack Henry & Associates）,信息技术,数据处理和外包服务,2018-11-13,1976
 J,Jacobs Engineering Group（英语：Jacobs Engineering Group）,工业,建筑与工程,2007-10-26,1947
 JBHT,J. B. Hunt（英语：J. B. Hunt）,工业,货运,2015-07-01,1961
+JBL,捷普科技,资讯技术,电子制造服务,2023-12-18,1966
 SJM,The J.M. Smucker Company（英语：The J.M. Smucker Company）,必需品,包装食品和肉类,2008-11-06,1897
 JNJ,强生公司,卫生保健,制药,1973-06-30,1886
 JCI,江森自控,工业,建筑产品,2010-08-27,1885
@@ -415,14 +416,15 @@ SBAC,SBA Communications（英语：SBA Communications）,房地产,专业房地�
 SLB,斯伦贝谢有限公司,能源,石油和天然气设备与服务,1965-03-31,1926
 STLD,Steel Dynamics（英语：Steel Dynamics）,材料,,2022-12-22,1993
 STX,希捷科技,信息技术,技术硬件、存储和外部设备,2012-07-02,1979
-SEE,Sealed Air（英语：Sealed Air）,材料,纸包装,1957-03-04,1960
 SRE,Sempra Energy（英语：Sempra Energy）,公共事业,复合公共事业,,1998
 NOW,ServiceNow（英语：ServiceNow）,信息技术,系统软件,2019-11-21,2003
 SHW,Sherwin-Williams（英语：Sherwin-Williams）,材料,特种化学品,1964-06-30,1866
+SMCI,美超微电脑,资讯技术,技术硬件、存储和外部设备,2024-03-18,1993
 SPG,Simon Property Group（英语：Simon Property Group）,房地产,零售房地产投资信托,2002-06-26,2003
 SWKS,Skyworks Solutions（英语：Skyworks Solutions）,信息技术,半导体,2015-03-12,2002
 SNA,Snap-on（英语：Snap-on）,工业,工业机械,1982-09-30,1920
 SO,美国南方电力公司,公共事业,电气事业,1957-03-04,1945
+SOLV,Solventum（英语：Solventum）,卫生保健,卫生保健技术,2024-04-01,2023
 LUV,西南航空,工业,航空公司,1994-07-01,1967
 SWK,史丹利百得,工业,工业机械,1982-09-30,1843
 SBUX,星巴克,非必需消费品,餐厅,,1971
@@ -457,9 +459,10 @@ TRMB,天宝导航,信息技术,电子设备及仪器,2021-01-21,1978
 TFC,Truist Financial（英语：Truist Financial）,金融,区域银行,1997-12-04,1872
 TYL,Tyler Technologies（英语：Tyler Technologies）,信息技术,应用软件,2020-06-22,1966
 TSN,泰森食品,必需品,包装食品和肉类,2005-08-10,1935
+UBER,优步,工业,,2023-12-18,2009
 UDR,"UDR, Inc.（英语：UDR, Inc.）",房地产,住宅房地产投资信托,2016-03-07,1972
 ULTA,犹他美容,非必需消费品,专卖店,2016-04-18,1990
-USB,美国合众银行,金融,多元化银行,,1968
+USB,美国合众银行,金融,多元化银行,1999-11-01,1968
 UNP,Union Pacific Corporation（英语：Union Pacific Corporation）,工业,铁路,1957-03-04,1862
 UAL,United Airlines Holdings（英语：United Airlines Holdings）,工业,航空公司,2015-09-03,1967
 UNH,联合健康保险,卫生保健,管理式医疗保健,1994-07-01,1977
@@ -467,17 +470,16 @@ UPS,联合包裹服务,工业,航空货运与物流,2002-07-22,1907
 URI,United Rentals（英语：United Rentals）,工业,贸易公司和分销商,2014-09-20,1997
 UHS,Universal Health Services（英语：Universal Health Services）,卫生保健,卫生保健设施,2014-09-20,1979
 UNM,Unum（英语：Unum）,金融,人寿与健康保险,1994-03-01,1999
-VLO,瓦莱罗能源,能源,石油和天然气精炼与销售,,1980
+VLTO,Veralto,工业,环境与设施服务,2023-10-02,2023
+VLO,瓦莱罗能源,能源,石油和天然气精炼与销售,2002-12-20,1980
 VTR,Ventas (company)（英语：Ventas (company)）,房地产,医疗保健房地产投资信托基金,2009-03-04,1998
 VRSN,威瑞信,信息技术,互联网服务与基础设施,2006-02-01,1995
 VRSK,Verisk Analytics（英语：Verisk Analytics）,工业,研究与咨询服务,2015-10-08,1971
 VZ,威讯通讯,通讯服务,综合电信服务,1983-11-30,1983 (1877)
 VRTX,福泰制药,卫生保健,生物技术,2013-09-23,1989
-VFC,威富公司,非必需消费品,服装、配饰和奢侈品,1979-06-30,1899
 VIAC,维亚康姆CBS,通讯服务,影视娱乐,,2019 (1952)
 VTRS,Viatris,卫生保健,制药,2004-04-23,1961
 V,Visa公司,信息技术,数据处理和外包服务,2009-12-21,1958
-VNO,,房地产,办公室房地产投资信托,,1982
 VMC,Vulcan Materials Company（英语：Vulcan Materials Company）,材料,建筑材料,1999-06-30,1909
 WRB,W. R. Berkley Corporation（英语：W. R. Berkley Corporation）,金融,财产保险,2019-12-05,1967
 WAB,西屋制动公司,工业,建筑机械与重型卡车,2019-02-27,1999 (1869)
@@ -494,7 +496,6 @@ WDC,西部数据,信息技术,技术硬件、存储和外部设备,2009-07-01,19
 WU,西联汇款,信息技术,数据处理和外包服务,2006-09-29,1851
 WRK,WestRock（英语：WestRock）,材料,纸包装,,2015
 WY,惠好,房地产,专业房地产投资信托,,1900
-WHR,惠而浦,非必需消费品,家用电器,,1911
 WMB,Williams Companies（英语：Williams Companies）,能源,油气储运,1975-03-31,1908
 WLTW,韦莱韬悦,金融,保险经纪人,2016-01-05,2016
 WYNN,永利度假村,非必需消费品,赌场与游戏,2008-11-14,2002
@@ -504,5 +505,4 @@ XYL,赛莱默,工业,工业机械,2011-11-01,2011
 YUM,百胜餐饮集团,非必需消费品,餐厅,1997-10-06,1997
 ZBRA,斑马技术公司,信息技术,电子设备及仪器,2019-12-23,1969
 ZBH,捷迈邦美,卫生保健,保健设备,2001-08-07,1927
-ZION,Zions Bancorporation（英语：Zions Bancorporation）,金融,区域银行,2001-06-22,1873
 ZTS,硕腾,卫生保健,制药,2013-06-21,1952
